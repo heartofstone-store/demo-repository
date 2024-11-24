@@ -1,0 +1,20 @@
+#interest {
+	background-color: #f42f42;
+	border: 1px solid black;
+	width: 100%;
+}
+
+caption {
+	background-color: #f42f42;
+	color: white;
+	border: 1px solid black;
+	width: 100%;
+	font-weight: 700;
+	font-family: TimesNewRoman 24px;
+}
+
+th, td, tr {
+	background-color: #f42f42;
+	border: 1px solid black;
+	width: 100%;
+}
